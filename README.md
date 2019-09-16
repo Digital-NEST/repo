@@ -6,4 +6,4 @@ Description of how to manage this organization account.
 
 - Repositories for teaching classes or open source projects should be listed on this repository.
 
-- Private, internal repositories should be stored on [dn-it](https://github.com/dn-it/)
+- Private, internal repositories should be stored on [dn-it](https://github.com/dn-it/).
